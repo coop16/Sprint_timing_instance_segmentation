@@ -17,4 +17,5 @@ __Steps to run code:__
 - Optional argument for manual fps (e.g. if video is editted and fps in metadata shows frames per video second, but not actual time second).
 
 5) Output will be .png file in the output folder with the original video name (without .mp4) and the sprint time in the filename (e.g. "sprint_video_time_1_113s.png")
+- The output file provides images of the 4 frames before/after the start/end lines are crossed, for QC that the timing interval was measured correctly.
 
